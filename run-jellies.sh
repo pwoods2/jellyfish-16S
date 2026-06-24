@@ -1,6 +1,14 @@
 #!/bin/bash
 
 # --- Configuration ---
+mkdir -p "nanoplot"
+mkdir -p "nanoplot/raw-nanoplot"
+mkdir -p "porechop-out"
+mkdir -p "nanoplot/porechop-nanoplot"
+mkdir -p "chopper-out"
+mkdir -p "nanoplot/chopper-nanoplot"
+mkdir -p "emu-out"
+
 INPUT_DIR="../data-use"
 NANOPLOT_DIR="nanoplot"
 RAW_NANOPLOT="nanoplot/raw-nanoplot"
