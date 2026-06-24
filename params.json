@@ -1,7 +1,0 @@
-{
-    "input_dir": "data-use/*",
-    "output_dir": "results-testing",
-    "database": "emu_db_silva",
-    "threads_pc": 4,
-    "threads_emu": 15
-}
