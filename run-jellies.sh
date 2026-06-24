@@ -17,7 +17,7 @@ PORECHOP_NANOPLOT="nanoplot/porechop-nanoplot"
 CHOPPER_OUT="chopper-out"
 CHOPPER_NANOPLOT="nanoplot/chopper-nanoplot"
 EMU_OUT="emu-out"
-EMU_DB="../4-emu-taxonomy/emu_db_silva"
+EMU_DB="../emu_db_silva"
 THREADS=18
 
 # Get the list of files
